@@ -1,0 +1,57 @@
+[submodule "ColorMirai"]
+	path = ColorMirai
+	url = git@github.com:Coloryr/ColorMirai.git
+[submodule "Comet-Bot"]
+	path = Comet-Bot
+	url = git@github.com:StarWishsama/Comet-Bot.git
+[submodule "PixivBot"]
+	path = PixivBot
+	url = git@github.com:ssttkkl/PixivBot.git
+[submodule "Mirai-picfinder-robot"]
+	path = Mirai-picfinder-robot
+	url = git@github.com:Genanik/Mirai-picfinder-robot.git
+[submodule "MiraiForward"]
+	path = MiraiForward
+	url = git@github.com:mzdluo123/MiraiForward.git
+[submodule "pcrcalendar-qqbot"]
+	path = pcrcalendar-qqbot
+	url = git@github.com:BillYang2016/pcrcalendar-qqbot
+[submodule "YuzuRobot-mirai-version"]
+	path = YuzuRobot-mirai-version
+	url = git@github.com:synodriver/YuzuRobot-mirai-version.git
+[submodule "MiraiGo-CQHTTP-hakuBot"]
+	path = MiraiGo-CQHTTP-hakuBot
+	url = git@github.com:weilinfox/MiraiGo-CQHTTP-hakuBot.git
+[submodule "GroupManagerBot"]
+	path = GroupManagerBot
+	url = git@github.com:Yiwen-Chan/GroupManagerBot.git
+[submodule "mirai-KeywordReply"]
+	path = mirai-KeywordReply
+	url = git@github.com:shine5402/mirai-KeywordReply.git
+[submodule "YuQ-Mirai-Demo"]
+	path = YuQ-Mirai-Demo
+	url = git@github.com:YuQWorks/YuQ-Mirai-Demo.git
+[submodule "GWYOG-Hoshino-plugins"]
+	path = GWYOG-Hoshino-plugins
+	url = git@github.com:GWYOG/GWYOG-Hoshino-plugins.git
+[submodule "setu"]
+	path = setu
+	url = git@github.com:umauc/setu.git
+[submodule "kuku-bot"]
+	path = kuku-bot
+	url = git@github.com:kukume/kuku-bot.git
+[submodule "project-shizuku"]
+	path = project-shizuku
+	url = git@github.com:qianjunakasumi/project-shizuku.git
+[submodule "mirai-api-http"]
+	path = mirai-api-http
+	url = git@github.com:project-mirai/mirai-api-http.git
+[submodule "mirai-native"]
+	path = mirai-native
+	url = git@github.com:iTXTech/mirai-native.git
+[submodule "BangumiBot"]
+	path = BangumiBot
+	url = git@github.com:ssttkkl/BangumiBot.git
+[submodule "cqhttp-mirai"]
+	path = cqhttp-mirai
+	url = git@github.com:yyuueexxiinngg/cqhttp-mirai.git
