@@ -2,7 +2,6 @@
 用于收录Mirai的插件
 | 名称                                                         | 介绍                                                         |
 | :----------------------------------------------------------- | :----------------------------------------------------------- |
-| [Application @ 121ec77](https://github.com/GraiaProject/Application/tree/121ec77f80b8962de68b28b8e24cf2ebc5af4238) | 一个设计精巧, 协议实现完备的, 基于 mirai-api-http 的即时聊天软件自动化框架. |
 | [BangumiBot @ 0d8cb6a](https://github.com/ssttkkl/BangumiBot/tree/0d8cb6a053d03b9d71b1fd53f5b8884e60ca96f6) | 番剧更新自动通知Bot                                          |
 | [ColorMirai @ ea57a27](https://github.com/Coloryr/ColorMirai/tree/ea57a2732d78ac48de10942ce4f7351534f22bcf) | 一个基于mirai的机器人                                        |
 | [Comet-Bot @ 8e1e5c5](https://github.com/StarWishsama/Comet-Bot/tree/8e1e5c56ba71f2cae15f068207cfe55bceae3e03) | ☄今日もかわいい!B站开播&推文推送/以图识图, 以及更多          |
